@@ -67,4 +67,5 @@ the door for advanced analysis that looks at how diﬀerent parts of the busines
 <img width="787" height="452" alt="Screenshot 2025-10-20 at 11 15 38 AM" src="https://github.com/user-attachments/assets/7435bddc-2bfd-4a66-b646-dbd9b08d4298" />
 PowerBI Dashboard showing comprehensive e-commerce analytics and key performance indicators
 
-
+## Project Report
+(
