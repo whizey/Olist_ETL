@@ -44,3 +44,8 @@ and seller info.
 
 This multi-table setup mirrors the complexity of real-world e-commerce and opens
 the door for advanced analysis that looks at how diﬀerent parts of the business interact.
+
+## Architecture of Data Schema
+
+<img width="839" height="492" alt="Screenshot 2025-10-20 at 11 18 18 AM" src="https://github.com/user-attachments/assets/48b7adbb-b571-4832-8dff-dc24acbb8446" />
+
