@@ -25,13 +25,21 @@ covering nearly 100,000 orders from 2016 to 2018. It includes nine interconnecte
 that capture diﬀerent parts of the e-commerce process:
 ***Orders**: The main table with order IDs, customer details, timestamps, and status
 updates, acting as the key to link other data.
+
 ***Order Items***: Details on products in each order, including prices, shipping costs,
 and seller info.
+
 ***Products***: Product catalog data like categories, sizes, and weights.
+
 ***Sellers***: Geographic and operational details about marketplace sellers.
+
 ***Customers***: Customer location and unique IDs.
+
 ***Payments***: Payment method details, installment plans, and transaction amounts.
+
 ***Reviews***: Customer satisfaction scores and review text.
+
 ***Geolocation***: Precise coordinates for Brazilian postal codes.
+
 This multi-table setup mirrors the complexity of real-world e-commerce and opens
 the door for advanced analysis that looks at how diﬀerent parts of the business interact.
