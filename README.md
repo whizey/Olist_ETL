@@ -23,7 +23,8 @@ In the evolving e-commerce landscape, companies face significant challenges when
 The Olist dataset is one of the most detailed public e-commerce datasets out there,
 covering nearly 100,000 orders from 2016 to 2018. It includes nine interconnected tables
 that capture diﬀerent parts of the e-commerce process:
-***Orders**: The main table with order IDs, customer details, timestamps, and status
+
+***Orders***: The main table with order IDs, customer details, timestamps, and status
 updates, acting as the key to link other data.
 
 ***Order Items***: Details on products in each order, including prices, shipping costs,
