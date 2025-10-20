@@ -11,3 +11,27 @@ This repository applies this rich dataset to build analytics and machine-learnin
 ## Problem Statement
 
 In the evolving e-commerce landscape, companies face significant challenges when working with large-scale marketplace data. First, the ***data-processing complexity*** is substantial: multiple interconnected tables, time-based relationships, and data quality issues mean that standard batch tools often struggle to keep up. Second, ***seller segmentation*** remains a major hurdle: simple performance metrics don’t capture the nuanced differences between seller types, making it hard to target strategic improvements. Third, modern businesses require near-real-time insights — integrating complex data processing workflows with user-friendly dashboards and operational decision-support is technically and operationally demanding. This project tackles all three: building a scalable pipeline, applying advanced segmentation techniques, and delivering meaningful business insights in a timely manner.
+
+## Objective
+
+* Develop a scalable ETL pipeline for large-scale e-commerce data.
+* Build advanced clustering models to segment sellers into distinct profiles.
+* Analyze Brazilian e-commerce trends to derive actionable business insights.
+* Define and document best practices for e-commerce analytics projects.
+
+## Dataset Characteristics and Structure
+The Olist dataset is one of the most detailed public e-commerce datasets out there,
+covering nearly 100,000 orders from 2016 to 2018. It includes nine interconnected tables
+that capture diﬀerent parts of the e-commerce process:
+***Orders**: The main table with order IDs, customer details, timestamps, and status
+updates, acting as the key to link other data.
+***Order Items***: Details on products in each order, including prices, shipping costs,
+and seller info.
+***Products***: Product catalog data like categories, sizes, and weights.
+***Sellers***: Geographic and operational details about marketplace sellers.
+***Customers***: Customer location and unique IDs.
+***Payments***: Payment method details, installment plans, and transaction amounts.
+***Reviews***: Customer satisfaction scores and review text.
+***Geolocation***: Precise coordinates for Brazilian postal codes.
+This multi-table setup mirrors the complexity of real-world e-commerce and opens
+the door for advanced analysis that looks at how diﬀerent parts of the business interact.
