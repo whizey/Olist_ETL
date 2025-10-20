@@ -49,3 +49,23 @@ the door for advanced analysis that looks at how diﬀerent parts of the busines
 
 <img width="839" height="492" alt="Screenshot 2025-10-20 at 11 18 18 AM" src="https://github.com/user-attachments/assets/48b7adbb-b571-4832-8dff-dc24acbb8446" />
 
+## Pipeline
+
+***Data Wrangling*** – The process of cleaning and unifying messy and complex datasets so that they become accessible and ready for analysis.
+
+***Exploratory Data Analysis (EDA)*** – A phase where a variety of techniques (mostly graphical) are applied to understand data structure, distributions, relationships and guide further modelling.
+
+***Modelling*** – Training a machine learning algorithm using features derived from the data to predict target outcomes, tuning it for the business need, and validating the model on hold-out data.
+
+***Model Evaluation*** – After splitting the data into training and test sets, the process of applying the model to the test data, measuring performance, and ensuring it meets the business requirements.
+
+***Dockerising*** – Converting the application or analytics workflow into a containerised format (e.g., using Docker) so that it can run reliably across different environments.
+
+***Deployment*** – Integrating the trained model or analytics system into a production-grade environment so it can take inputs and deliver outputs that support actual business decision-making.
+
+## Power Bi Implementation
+<img width="787" height="452" alt="Screenshot 2025-10-20 at 11 15 38 AM" src="https://github.com/user-attachments/assets/7435bddc-2bfd-4a66-b646-dbd9b08d4298" />
+PowerBI Dashboard showing comprehensive e-commerce analytics and key
+performance indicators
+
+
