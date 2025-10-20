@@ -68,4 +68,4 @@ the door for advanced analysis that looks at how diﬀerent parts of the busines
 PowerBI Dashboard showing comprehensive e-commerce analytics and key performance indicators
 
 ## Project Report
-(
+[Modern E-commerce Analytics: Crafting a Full ETL Pipeline and Machine Learning System for Brazilian Marketplace Data.pdf](https://github.com/user-attachments/files/22997772/Modern.E-commerce.Analytics.Crafting.a.Full.ETL.Pipeline.and.Machine.Learning.System.for.Brazilian.Marketplace.Data.pdf)
